@@ -79,7 +79,7 @@ crew = Crew(
     process=Process.sequential
 )
 
-print("\n🚀 Agent is starting the research...\n")
+print("\n Agent is starting the research...\n")
 result = crew.kickoff()
 
 print("\n=== Done ===")
